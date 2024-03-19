@@ -50,11 +50,12 @@ section
 
 #hero
 {
-    background: url(images/bckgr.jpeg);
+    background: url(images/bckgr.jpg);
     min-height: 100vh;
     background-position: center;
     background-size: cover;
 }
+
 
 
 .own
@@ -106,6 +107,7 @@ section
     {
         background-color: var(--dark);
     }
+    
 }
 
 #hero h1, #hero p
